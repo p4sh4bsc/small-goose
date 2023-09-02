@@ -1,0 +1,6 @@
+Wander=True
+TrackMud=False
+CollectMeme=False
+CollectNotepad=True
+NabMouse=False
+FollowMouseDrifty=False
